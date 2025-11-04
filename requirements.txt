@@ -1,0 +1,7 @@
+streamlit
+sqlalchemy
+pillow
+numpy
+pandas
+folium
+streamlit-folium
